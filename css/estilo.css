@@ -63,3 +63,7 @@ ul .link {
 .menu ul {
     font-weight: bold;
 }
+
+#conteudo {
+    line-height: 1.5;
+}
