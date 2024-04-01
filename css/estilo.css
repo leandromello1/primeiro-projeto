@@ -86,3 +86,7 @@ button {
 .rodape {
     border-top: 2px solid red;
 }
+
+#cabecalho {
+    background-color: blue;
+}
