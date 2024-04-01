@@ -52,6 +52,7 @@ ul .link {
     height: 100%;
     border: 2px solid #000;
     margin: 20px;
+    padding: 20px;
 }
 
 #contact {
@@ -67,3 +68,9 @@ ul .link {
 #conteudo {
     line-height: 1.5;
 }
+
+form {
+    border: 1px solid gray;
+    padding: 10px;
+}
+
